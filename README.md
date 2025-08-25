@@ -1,3 +1,4 @@
 # waqas-hashmi
 New repo is created
-created by waqas
+<br>
+created by: waqas
